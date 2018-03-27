@@ -2,31 +2,31 @@
     "Help": {
         "name":"Help",
         "group":"User",
-        "desc":"Display a list of commands.",
-        "usage":"help [group OR command]"
+        "desc":"Display a list of commands/danh sách các lệnh được thêm trong bot",
+        "usage":"help [group OR command/nhóm hoặc lệnh]"
     },
     "Hook": {
         "name":"Hook",
         "group":"User",
-        "desc":"Return a hook in the channel",
+        "desc":"Return a hook in the channel/trả lời ẩn danh",
         "usage":"hook <title>,<description>,[color],[avatarURL]"
     },
     "Weather": {
         "name":"Weather",
         "group":"User",
-        "desc":"Return the weather in the channel",
+        "desc":"Return the weather in the channel/gửi thông tin thời tiết vào channel",
         "usage":"weather <location>"
     },
     "Purge": {
         "name":"Purge",
         "group":"Moderator",
-        "desc":"Clears a specified number of message",
+        "desc":"Clears a specified number of message/Xóa một số lượng thông báo cụ thể",
         "usage":"purge <message>"
     },
     "newCommand": {
         "name":"newCommand",
         "group":"newGroup!",
-        "desc":"newDesc",
+        "desc":"Update coming soon/sẽ update hoặc nhét thằng nái vào ",
         "usage":"newCommand <test>"
     }
 }
