@@ -23,11 +23,11 @@
         "desc":"Clears a specified number of message/Xóa một số lượng thông báo cụ thể",
         "usage":"purge <message>"
     },
-    "newCommand": {
-        "name":"newCommand",
-        "group":"newGroup!",
-        "desc":"Update coming soon/sẽ update hoặc nhét thằng nái vào ",
-        "usage":"newCommand <test>"
+    "Gpx": {
+        "name":"Gpx",
+        "group":"User",
+        "desc":"Update liên tục gpx cho team",
+        "usage":"help <tên gpx>"
     },
     "Danmak Gpx": {
         "name":"Danmak Gpx",
