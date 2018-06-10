@@ -4,4 +4,4 @@ PokeGo++ has been updated
 - Updated to Latest 0.105.0 Official App
 - Fixed Patreon donor authorization
 - Link : https://wetransfer.com/downloads/b2ab263284d7e50d5b98f2b25cb8628820180531030820/24032f26628e02d1fdcc4687c85eb56f20180531030820/5071dd
-timestamp: new Date(),
+
