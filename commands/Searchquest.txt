@@ -1,17 +1,27 @@
-Larvitar quest Tokyo (Japan)
-Quest reset in  9 hours 
-35.455822, 139.629530 (10min cd)
- 35.579133, 139.735406 (1min cd)
- 35.591086, 139.732158 (7min cd)
+Candy time!
+:point_right: Route to collect rare candies and to replenish Dratinis
+:point_right: You need to have at least 1 Dratini in your quest storage to start this route. (Read my tip in #tips_and_tricks to learn how to stack Dratinis)
 
- 35.664953, 139.762383 (3min cd)
- 35.644865, 139.811705 (4min cd)
- 35.698128, 139.819765 (10min cd)
+35.853125, 139.937956 (10 min CD)
+35.735712, 139.849283 (4 min CD)
+35.689668, 139.879701 
+Catch a Dratini from your quest storage, to get 1 Dratinis and 6 candies. Then 8 min CD.
 
- 35.707753, 139.634891 (7min cd)
- 35.753361, 139.546706 (11min cd)
- 35.588174, 139.510170 (6min cd)
+35.654678, 139.755095 (2 min CD)
+35.685514, 139.767983 (3 min CD)
+35.722794, 139.738164
+Catch a Dratini from your quest storage, to get 1 Dratinis and 6 candies. Then 1 min CD.
 
- 35.517666, 139.529792 (7min cd)
- 35.457417, 139.464676 (6min cd)
- 35.385445, 139.474483
+35.729149, 139.748009 (3 min CD)
+35.692836, 139.774124 (4 min CD)
+35.693200, 139.707136
+Make 3 curve great throws in a row, to get 9 candies. Then 5 min CD.
+
+35.739376, 139.652656 (7 min CD)
+35.653982, 139.671305 (4 min CD)
+35.664867, 139.739942
+Catch a Dratini from your quest storage, to get 1 Dratinis and 6 candies
+
+Total: 27 rare candies
+
+Valid until 23:59 Japan time GMT+9 (that's 8h40m from the time stamp of this message)
