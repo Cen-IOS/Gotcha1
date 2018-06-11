@@ -1,27 +1,19 @@
-Candy time!
-:point_right: Route to collect rare candies and to replenish Dratinis
-:point_right: You need to have at least 1 Dratini in your quest storage to start this route. (Read my tip in #tips_and_tricks to learn how to stack Dratinis)
+Use 3 Berries to help  catch Pokémon
+Reward : wailmer (Japan)
+Quest reset at 23.59 JST 
+NEW
+35.658100, 139.793422 (1min cd)
+35.654449, 139.797086 (1min cd)
+35.656954, 139.803786 (1min cd)
 
-35.853125, 139.937956 (10 min CD)
-35.735712, 139.849283 (4 min CD)
-35.689668, 139.879701 
-Catch a Dratini from your quest storage, to get 1 Dratinis and 6 candies. Then 8 min CD.
+35.666267, 139.802040 (0min cd)
+35.669630, 139.804672 (1min cd)
+35.671835, 139.798400 (0min cd)
 
-35.654678, 139.755095 (2 min CD)
-35.685514, 139.767983 (3 min CD)
-35.722794, 139.738164
-Catch a Dratini from your quest storage, to get 1 Dratinis and 6 candies. Then 1 min CD.
+35.671924, 139.797130 (1min cd)
+35.680482, 139.804752 (0min cd)
+35.681998, 139.805553 (1min cd)
 
-35.729149, 139.748009 (3 min CD)
-35.692836, 139.774124 (4 min CD)
-35.693200, 139.707136
-Make 3 curve great throws in a row, to get 9 candies. Then 5 min CD.
-
-35.739376, 139.652656 (7 min CD)
-35.653982, 139.671305 (4 min CD)
-35.664867, 139.739942
-Catch a Dratini from your quest storage, to get 1 Dratinis and 6 candies
-
-Total: 27 rare candies
-
-Valid until 23:59 Japan time GMT+9 (that's 8h40m from the time stamp of this message)
+35.686048, 139.802536 (1min cd)
+35.688141, 139.798171 (1min cd)
+35.688137, 139.788944 (0min cd)
